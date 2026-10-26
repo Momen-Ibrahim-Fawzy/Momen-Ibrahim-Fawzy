@@ -56,16 +56,16 @@
 
 ### 📄 Publications
 
-| Paper | Venue | Result | Code |
-|---|---|---|---|
-| Retrieval-Augmented, Preference-Tuned Generation for Arabic Sentiment Swap | ArabicNLP 2026 | 🥇 1st of 15 | [repo](https://github.com/Momen-Ibrahim-Fawzy/ALEXIS-DialectSentEval-Subtask2-SentimentSwap-) |
-| Adversarial Training and Iterative Self-Training for Zero-Shot Dialect Sentiment Analysis | ArabicNLP 2026 | 🥇 1st of 12 | [repo](https://github.com/Momen-Ibrahim-Fawzy/ALEXIS-DialectSentEval-Subtask1-SentimentAnalysis-) |
-| Capacity Discovery and Calibrated Preference Optimization for Cross-Dialect Arabic MT | ArabicNLP 2026 | 🥈 2nd | [repo](https://github.com/Momen-Ibrahim-Fawzy/ALEXIS-AlexandriaX-Subtask2-CrossDialectMT) |
-| Target-Aware Validation under Population Shift: Diagnosing Selection Bias in Small-Cohort Suicide Risk Detection | MHSM Workshop @ IEEE ICDM 2026 | to appear | |
-| Post-Hoc Synonym Watermarking with Dual-Key Type-Level Detection | CLEF 2026 | 🥈 2nd | [repo](https://github.com/Momen-Ibrahim-Fawzy/posthoc-dualkey-watermarking--PAN2026) |
-| Content-Agnostic Contrastive Stylometry for Multi-Author Writing Style Analysis | CLEF 2026 | 🥈 2nd of 8 | [repo](https://github.com/Momen-Ibrahim-Fawzy/ContraStyle-PAN2026) |
-| Disagreement-Aware Ensemble for Robust AI Text Detection | CLEF 2026 | | [repo](https://github.com/Momen-Ibrahim-Fawzy/VK-DisAgree-PAN2026) |
-| [Enhancing Authorship Verification using Sentence-Transformers](https://ceur-ws.org/Vol-3497/paper-216.pdf) | CLEF 2023 (CEUR-WS 3497) | 🥇 1st | [repo](https://github.com/Momen-Ibrahim-Fawzy/pan23-authorship-verification) |
+| Paper | Venue | Result | Read | Code |
+|---|---|---|---|---|
+| Retrieval-Augmented, Preference-Tuned Generation for Arabic Sentiment Swap | ArabicNLP 2026 | 🥇 1st of 15 | [ACL Anthology](https://aclanthology.org/2026.arabicnlp-sharedtasks.188/) | [repo](https://github.com/Momen-Ibrahim-Fawzy/ALEXIS-DialectSentEval-Subtask2-SentimentSwap-) |
+| Adversarial Training and Iterative Self-Training for Zero-Shot Dialect Sentiment Analysis | ArabicNLP 2026 | 🥇 1st of 12 | [ACL Anthology](https://aclanthology.org/2026.arabicnlp-sharedtasks.187/) | [repo](https://github.com/Momen-Ibrahim-Fawzy/ALEXIS-DialectSentEval-Subtask1-SentimentAnalysis-) |
+| Capacity Discovery and Calibrated Preference Optimization for Cross-Dialect Arabic MT | ArabicNLP 2026 | 🥈 2nd of 4 | [ACL Anthology](https://aclanthology.org/2026.arabicnlp-sharedtasks.104/) | [repo](https://github.com/Momen-Ibrahim-Fawzy/ALEXIS-AlexandriaX-Subtask2-CrossDialectMT) |
+| Target-Aware Validation under Population Shift: Diagnosing Selection Bias in Small-Cohort Suicide Risk Detection | MHSM Workshop @ IEEE ICDM 2026 | to appear |  |  |
+| Post-Hoc Synonym Watermarking with Dual-Key Type-Level Detection | CLEF 2026 (CEUR-WS 4283) | 🥈 2nd of 5 | [CEUR-WS](https://ceur-ws.org/Vol-4283/paper409.pdf) | [repo](https://github.com/Momen-Ibrahim-Fawzy/posthoc-dualkey-watermarking--PAN2026) |
+| Content-Agnostic Contrastive Stylometry for Multi-Author Writing Style Analysis | CLEF 2026 (CEUR-WS 4283) | 🥈 2nd of 8 | [CEUR-WS](https://ceur-ws.org/Vol-4283/paper407.pdf) | [repo](https://github.com/Momen-Ibrahim-Fawzy/ContraStyle-PAN2026) |
+| Disagreement-Aware Ensemble for Robust AI Text Detection | CLEF 2026 (CEUR-WS 4283) |  | [CEUR-WS](https://ceur-ws.org/Vol-4283/paper408.pdf) | [repo](https://github.com/Momen-Ibrahim-Fawzy/VK-DisAgree-PAN2026) |
+| Enhancing Authorship Verification using Sentence-Transformers | CLEF 2023 (CEUR-WS 3497) | 🥇 1st | [CEUR-WS](https://ceur-ws.org/Vol-3497/paper-216.pdf) | [repo](https://github.com/Momen-Ibrahim-Fawzy/pan23-authorship-verification) |
 
 Also: [ALEXIS-ShiftGuard](https://github.com/Momen-Ibrahim-Fawzy/ALEXIS-BigData2026Cup-ExplainableSuicideRiskDetection-ShiftGuard),
 explainable suicide-risk detection under population shift (IEEE BigData 2026 Cup).
